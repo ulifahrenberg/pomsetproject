@@ -1,0 +1,13 @@
+This directory contains some of the data generated during our
+experiments with (i)posets.  iposetsN.txt contain all iposets,
+up to isomorphism, on N points; gpiN.txt all gp-iposets on N
+points; and forbidden.txt lists all known forbidden substructures.
+
+The file format is that of McKay's posetsN.txt files, except that
+all numbers are in hexadecimal and interfaces are indicated last.
+So a line
+		4 2 01 23 - 13
+
+denotes an iposet on 4 points, with 2 edges, from 0 to 1 and from
+2 to 3, with no points in the starting interface and points 1 and
+3, in that order, in the terminating interface.

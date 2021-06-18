@@ -1,0 +1,11 @@
+This directory contains the Julia code used for the experiments in
+our paper "Posets with Interfaces for Concurrent Kleene Algebra".
+
+Julia 1.6 or greater is required.  No installation is necessary, except
+for the Julia packages LightGraphs and Combinatorics.  If these are not
+present, Julia will complain when called the first time and tell you
+how to install them.
+
+LightPosets.jl and iposets.jl are general libraries implementing posets
+and iposets. generate.jl contains the code used to generate different
+types of posets and iposets.
