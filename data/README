@@ -1,7 +1,10 @@
-This directory contains some of the data generated during our
-experiments with (i)posets.  iposetsN.txt contain all iposets,
-up to isomorphism, on N points; gpiN.txt all gp-iposets on N
-points; and forbidden.txt lists all known forbidden substructures.
+This directory contains most of the data generated during our
+experiments with (i)posets:
+- iposetsN.txt: all iposets, up to isomorphism, on N points
+- gpiN.txt: all gp-iposets, up to isomorphism, on N points
+- gpwinkN.txt: all gp-Winkowskis, up to isomorphism, on N points
+- spN.txt: all sp-posets, up to isomorphism, on N points
+- forbidden.txt: all known forbidden substructures for gp-posets
 
 The file format is that of McKay's posetsN.txt files, except that
 all numbers are in hexadecimal and interfaces are indicated last.
