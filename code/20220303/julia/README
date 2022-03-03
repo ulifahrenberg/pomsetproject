@@ -1,0 +1,13 @@
+This directory contains the Julia code used for the experiments in
+our paper "Generating Posets with Interfaces".
+
+Julia 1.6 is required.  No installation is necessary, except for the
+Julia packages LightGraphs and Combinatorics.  If these are not
+present, Julia will complain when called the first time and tell you
+how to install them.
+
+LightPosets.jl and iposets.jl are general libraries implementing
+posets and iposets. closures.jl contains the code used to generate
+different types of posets and iposets, analysis.jl contains functions
+for analysing (arrays of) (i)posets, and count.jl contains code for
+analysing the isomorphism check.
