@@ -6,6 +6,19 @@
     <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
     <meta name="author" content="Uli Fahrenberg" />
     <link rel="stylesheet" type="text/css" href="CSS/site.css" title="Default stylesheet" />
+    <script>
+      MathJax = {
+      tex: {
+      inlineMath: [['$', '$']]
+      },
+      svg: {
+      fontCache: 'global'
+      }
+      };
+    </script>
+    <script type="text/javascript" id="MathJax-script" async
+	    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+    </script>
 
     <title>(i)Po(m)set Project Online Seminar</title>
   </head>
@@ -44,7 +57,8 @@
   If you want to participate,
   send an email to <a href="mailto:uli@lrde.epita.fr">uli@lrde.epita.fr</a>
   so that we can add you to our mailing list.
-  You will receive seminar announcements, one reminder per seminar, and the zoom link.</p>
+  You will receive about one email per week in average:
+  seminar announcements, reminders, and the zoom link.</p>
 
 <p>Talks generally last at most one hour, including time for questions.</p>
 
@@ -57,7 +71,39 @@
   EPITA Paris, France:
   <strong>Series-parallel pomsets: automata and logic</strong><br />
 
-  Abstract TBA
+  In order to model concurrency, Lodaya and Weil extended automata
+  theory from the usual word languages to sets of labelled
+  series-parallel posets (pomset) languages. These languages are
+  subsets of SP($A$): the smallest class containing the empty pomset,
+  the letters of $A$ and being closed under sequential product
+  (concatenation) and parallel product, or equivalently, the class of
+  posets labelled by the alphabet $A$, having finite antichains and
+  not containing four distinct elements $x$, $y$, $z$, $t$ whose relative order
+  form an N: $x < y$, $z < y$ and $z < t$.<br />
+
+  In this talk we focus on a Kleene-like theorem and a
+  Büchi-Elgot-Trakhtenbrot-like theorem on languages of SP($A$). Lodaya
+  and Weil introduced a notion of branching automata. It is a
+  generalization of Kleene automata with two new types of transitions:
+  fork and join transitions, in addition to the usual sequential
+  transitions of Kleene automata. The fork transitions allow to
+  execute concurrently a finite number of instruction flows and the
+  join transitions merge them. These automata accept subsets of SP($A$)
+  of unbounded width.  Lodaya and Weil introduced a generalization of
+  the usual rational expressions to catch the expressivity of
+  branching automata. These two equivalent models can be
+  restricted to both accept, in an equivalent way, subsets of
+  SP($A$) of bounded width.<br />
+
+  From a logical point of view, Kuske showed that a rational
+  language of SP($A$) is of bounded width if and only if it is definable
+  in monadic second order (MSO) logic. However, MSO alone does not
+  suffice for rational languages of unbounded width.  The finite
+  parallel iteration is not MSO-definable. Bedon introduced
+  P-MSO, which is monadic second order mixed with Presburger
+  arithmetic. He shows that the languages of branching automata are
+  exactly those definable in P-MSO logic. As a consequence, the P-MSO
+  theory of SP($A$) is decidable.
 </p>
 
 <h3>Friday 16 June 2023 11:00 CEST</h3>
