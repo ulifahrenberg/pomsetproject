@@ -16,8 +16,15 @@
       }
       };
     </script>
-    <script type="text/javascript" id="MathJax-script" async
-	    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+    </script>
+    <script language="javascript">
+      function toggleDiv(divid){
+	if(document.getElementById(divid).style.display == 'none'){
+	  document.getElementById(divid).style.display = 'inline';
+	}else{
+	  document.getElementById(divid).style.display = 'none';
+	}}
     </script>
 
     <title>(i)Po(m)set Project Online Seminar</title>
@@ -106,41 +113,43 @@
 <p>
   <strong><a href="https://www.lre.epita.fr/perso/amazigh-amrane/">Amazigh Amrane</a></strong>,
   EPITA Paris, France:
-  <strong>Series-parallel pomsets: automata and logic</strong><br />
+  <a href="javascript:toggleDiv('Amrane')">Series-parallel pomsets: automata and logic</a>
+  <div style="display:none", id="Amrane">
+    In order to model concurrency, Lodaya and Weil extended
+    automata theory from the usual word languages to sets of labelled
+    series-parallel posets (pomset) languages. These languages are
+    subsets of SP($A$): the smallest class containing the empty
+    pomset, the letters of $A$ and being closed under sequential
+    product (concatenation) and parallel product, or equivalently, the
+    class of posets labelled by the alphabet $A$, having finite
+    antichains and not containing four distinct elements $x$, $y$,
+    $z$, $t$ whose relative order form an N: $x < y$, $z < y$ and $z <
+    t$.<br />
 
-  In order to model concurrency, Lodaya and Weil extended automata
-  theory from the usual word languages to sets of labelled
-  series-parallel posets (pomset) languages. These languages are
-  subsets of SP($A$): the smallest class containing the empty pomset,
-  the letters of $A$ and being closed under sequential product
-  (concatenation) and parallel product, or equivalently, the class of
-  posets labelled by the alphabet $A$, having finite antichains and
-  not containing four distinct elements $x$, $y$, $z$, $t$ whose relative order
-  form an N: $x < y$, $z < y$ and $z < t$.<br />
+    In this talk we focus on a Kleene-like theorem and a
+    Büchi-Elgot-Trakhtenbrot-like theorem on languages of
+    SP($A$). Lodaya and Weil introduced a notion of branching
+    automata. It is a generalization of Kleene automata with two new
+    types of transitions: fork and join transitions, in addition to
+    the usual sequential transitions of Kleene automata. The fork
+    transitions allow to execute concurrently a finite number of
+    instruction flows and the join transitions merge them. These
+    automata accept subsets of SP($A$) of unbounded width.  Lodaya and
+    Weil introduced a generalization of the usual rational expressions
+    to catch the expressivity of branching automata. These two
+    equivalent models can be restricted to both accept, in an
+    equivalent way, subsets of SP($A$) of bounded width.<br />
 
-  In this talk we focus on a Kleene-like theorem and a
-  Büchi-Elgot-Trakhtenbrot-like theorem on languages of SP($A$). Lodaya
-  and Weil introduced a notion of branching automata. It is a
-  generalization of Kleene automata with two new types of transitions:
-  fork and join transitions, in addition to the usual sequential
-  transitions of Kleene automata. The fork transitions allow to
-  execute concurrently a finite number of instruction flows and the
-  join transitions merge them. These automata accept subsets of SP($A$)
-  of unbounded width.  Lodaya and Weil introduced a generalization of
-  the usual rational expressions to catch the expressivity of
-  branching automata. These two equivalent models can be
-  restricted to both accept, in an equivalent way, subsets of
-  SP($A$) of bounded width.<br />
-
-  From a logical point of view, Kuske showed that a rational
-  language of SP($A$) is of bounded width if and only if it is definable
-  in monadic second order (MSO) logic. However, MSO alone does not
-  suffice for rational languages of unbounded width.  The finite
-  parallel iteration is not MSO-definable. Bedon introduced
-  P-MSO, which is monadic second order mixed with Presburger
-  arithmetic. He shows that the languages of branching automata are
-  exactly those definable in P-MSO logic. As a consequence, the P-MSO
-  theory of SP($A$) is decidable.
+    From a logical point of view, Kuske showed that a rational
+    language of SP($A$) is of bounded width if and only if it is
+    definable in monadic second order (MSO) logic. However, MSO alone
+    does not suffice for rational languages of unbounded width.  The
+    finite parallel iteration is not MSO-definable. Bedon introduced
+    P-MSO, which is monadic second order mixed with Presburger
+    arithmetic. He shows that the languages of branching automata are
+    exactly those definable in P-MSO logic. As a consequence, the
+    P-MSO theory of SP($A$) is decidable.
+  </div>								       
 </p>
 
 <h3>Friday 14 April 2023 11:00 CEST</h3>
@@ -148,27 +157,30 @@
 <p>
   <strong><a href="https://www.matem.unam.mx/~rajsbaum/">Sergio Rajsbaum</a></strong>,
   UNAM, Mexico and IRIF, Paris, France:
-  <strong>Unifying concurrent objects and distributed tasks: interval-linearizability</strong><br />
+  <a href="javascript:toggleDiv('Rajsbaum')">Unifying concurrent objects and distributed tasks: interval-linearizability</a>
+  <div style="display:none", id="Rajsbaum">
+    Tasks and objects are two predominant ways of specifying
+    distributed problems where processes should compute outputs based
+    on their inputs. Roughly speaking, a task specifies, for each set
+    of processes and each possible assignment of input values, they're
+    valid outputs. In contrast, an object is defined by a sequential
+    specification. Also, an object can be invoked multiple times by
+    each process, while a task is a one-shot problem. Each one
+    requires its own implementation notion, stating when an execution
+    satisfies the specification. For objects, linearizability is
+    commonly used, while tasks implementation notions are less
+    explored.<br />
 
-  Tasks and objects are two predominant ways of specifying distributed
-  problems where processes should compute outputs based on their
-  inputs. Roughly speaking, a task specifies, for each set of
-  processes and each possible assignment of input values, they're
-  valid outputs. In contrast, an object is defined by a sequential
-  specification. Also, an object can be invoked multiple times by each
-  process, while a task is a one-shot problem. Each one requires its
-  own implementation notion, stating when an execution satisfies the
-  specification. For objects, linearizability is commonly used, while
-  tasks implementation notions are less explored.<br />
-
-  The talk overviews results presented in JACM 2018 together with
-  Castañeda and Raynal, about the notion of interval-sequential
-  object, and the corresponding implementation notion of
-  interval-linearizability, to encompass many problems that have no
-  sequential specification as objects.  A main result of the article
-  is that interval-sequential objects and (refined) tasks have the
-  same expressive power and both are complete in the sense that they
-  are able to specify any prefix-closed set of well-formed executions.
+    The talk overviews results presented in JACM 2018 together with
+    Castañeda and Raynal, about the notion of interval-sequential
+    object, and the corresponding implementation notion of
+    interval-linearizability, to encompass many problems that have no
+    sequential specification as objects.  A main result of the article
+    is that interval-sequential objects and (refined) tasks have the
+    same expressive power and both are complete in the sense that they
+    are able to specify any prefix-closed set of well-formed
+    executions.
+  </div>
 </p>
 
 <h3>Friday 17 March 2023 11:00 CET</h3>
@@ -176,19 +188,20 @@
 <p>
   <strong><a href="https://www.ntnu.no/ansatte/safa.zouari">Safa Zouari</a></strong>,
   NTNU Gjøvik, Norway:
-  <strong>Logical characterization of hh-bisimulation via open maps for HDA</strong><br />
-  
-  The categorical approach of Nielsen & Winskel came up with a
-  unifying understanding of models of concurrency. Previous
-  applications of this method to higher dimensional automata (HDA)
-  have not treated the logic that it yields in much detail. In this
-  work, we follow the same approach to introduce a new notion of
-  Bisimulation from open maps and its characteristic path
-  logic. Further, we investigate fragments of the logic and the
-  bisimulations that they capture. To this end, we rely on the recent
-  categorical definition of HDA and the notion of track objects. The
-  motivation for this study is to develop modal characterization for
-  all concurrency bisimulations.
+  <a href="javascript:toggleDiv('Zouari')">Logical characterization of hh-bisimulation via open maps for HDA</a>
+  <div style="display:none", id="Zouari">
+    The categorical approach of Nielsen & Winskel came up with a
+    unifying understanding of models of concurrency. Previous
+    applications of this method to higher dimensional automata (HDA)
+    have not treated the logic that it yields in much detail. In this
+    work, we follow the same approach to introduce a new notion of
+    Bisimulation from open maps and its characteristic path
+    logic. Further, we investigate fragments of the logic and the
+    bisimulations that they capture. To this end, we rely on the
+    recent categorical definition of HDA and the notion of track
+    objects. The motivation for this study is to develop modal
+    characterization for all concurrency bisimulations.
+  </div>
 </p>
 
 <h1 id="contact">Contact</h1>
