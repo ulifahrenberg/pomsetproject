@@ -105,7 +105,32 @@
   <strong><a href="http://people.rennes.inria.fr/Loic.Helouet/">Loïc Hélouët</a></strong>,
   IRISA, Rennes, France:
   <strong>Waiting nets</strong><br />
-  TBA
+
+  In Time Petri nets (TPNs), time and control are tightly connected:
+  time measurement for a transition starts only when all resources
+  needed to fire it are available. For many systems, one wants to
+  start measuring time as soon as a part of the preset of a transition
+  is filled, and fire it after some delay and when all needed
+  resources are available.<br />
+
+  This work considers an extension of TPN called waiting nets
+  decoupling time measurement and control. Their semantics ignores
+  urgency when upper bounds of intervals are reached but some
+  resources needed to fire are not yet available. Firing of a
+  transition is then allowed as soon as missing resources become
+  available.  This semantics extension resembles stopwatches, but is
+  in fact weaker.<br />
+
+  It is known that extending bounded TPNs with stopwatches leads to
+  undecidability. Our extension is weaker, and bounded Waiting nets
+  are not Turing powerful.  Interestingly, state classes, a standard
+  technique to build a finite abstract representation of the sate
+  space and analyze bounded time Petri nets extends to waiting nets.
+  We show how to compute a finite state class graph for bounded
+  waiting nets, yielding decidability of reachability and
+  coverability. We then compare expressiveness of waiting nets with
+  that of other models and show that they are strictly more expressive
+  than TPNs.
 </p>
 
 <h3 id="20230915">Friday 15 September 2023 11:00 CEST</h3>
