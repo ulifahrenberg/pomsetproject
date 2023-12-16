@@ -1,0 +1,8 @@
+Amrane,Amazigh,amazigh.amrane@epita.fr
+Bazille,Hugo,hugo1.bazille@epita.fr
+Fahrenberg,Uli,uli@lrde.epita.fr
+Goubault,Éric,goubault@lix.polytechnique.fr
+Johansen,Christian,christian@johansenresearch.info
+Struth,Georg,g.struth@sheffield.ac.uk
+Ziemiański,Krzysztof,ziemians@mimuw.edu.pl
+Zouari,Safa,safa.zouari@ntnu.no
