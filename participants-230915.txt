@@ -1,0 +1,14 @@
+Acclavio,Matteo,macclavio@gmail.com
+Bazille,Hugo,hugo1.bazille@epita.fr
+Clement,Emily,emily.clement.cs@gmail.com
+Fahrenberg,Uli,uli@lrde.epita.fr
+Fortin,Marie,marie.fortin@irif.fr
+Horne,Ross,Ross.horne@gmail.com
+Johansen,Christian,christian@johansenresearch.info
+Kahl,Thomas,kahl@math.uminho.pt
+Mauw,Sjouke,sjouke.mauw@uni.lu
+Michel,Max,michelmx@gmail.com
+Mikulski,Łukasz,lukasz.mikulski@mat.umk.pl
+Strassburger,Lutz,lutz@lix.polytechnique.fr
+Ziemiański,Krzysztof,ziemians@mimuw.edu.pl
+Zouari,Safa,safa.zouari@ntnu.no

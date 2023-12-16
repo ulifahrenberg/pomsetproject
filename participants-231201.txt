@@ -1,0 +1,11 @@
+Acclavio,Matteo,macclavio@gmail.com
+Basold,Henning,h.basold@liacs.leidenuniv.nl
+Bazille,Hugo,hugo1.bazille@epita.fr
+Douteau,Sylvain,sylvain.douteau@gmail.com
+Fahrenberg,Uli,uli@lrde.epita.fr
+Fortin,Marie,marie.fortin@irif.fr
+Gajda,Michał,mjgajda@gmail.com
+Kniazev,Roman,roman@kameronton.com
+vanGool,Sam,vangool@irif.fr
+Ziemiański,Krzysztof,ziemians@mimuw.edu.pl
+Zouari,Safa,safa.zouari@ntnu.no

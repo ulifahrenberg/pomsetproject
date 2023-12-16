@@ -1,0 +1,13 @@
+Amrane,Amazigh,amazigh.amrane@epita.fr
+Acclavio,Matteo,macclavio@gmail.com
+Basold,Henning,h.basold@liacs.leidenuniv.nl
+Bazille,Hugo,hugo1.bazille@epita.fr
+Fahrenberg,Uli,uli@lrde.epita.fr
+Fortin,Marie,marie.fortin@irif.fr
+Hélouët,Loïc,loic.helouet@inria.fr
+Horne,Ross,Ross.horne@gmail.com
+Mauw,Sjouke,sjouke.mauw@uni.lu
+Michel,Max,michelmx@gmail.com
+Mikulski,Łukasz,lukasz.mikulski@mat.umk.pl
+Stan,Daniel,daniel.stan@epita.fr
+Ziemiański,Krzysztof,ziemians@mimuw.edu.pl
