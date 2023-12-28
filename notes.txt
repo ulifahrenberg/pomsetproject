@@ -1,11 +1,11 @@
 Proposed speakers:
 
 PA Melliès: Grothendieck construction
+Idit Keidar: https://dl.acm.org/doi/10.1145/3584699 (proposed by S.Rajsbaum)
 
 Prospective speakers:
 
 Akshay / Genest: Timed negotiations: https://doi.org/10.1007/978-3-030-45231-5_3
-Idit Keidar: https://dl.acm.org/doi/10.1145/3584699 (proposed by S.Rajsbaum)
 Calk-Goubault-Malbos: Persistent homology of directed spaces
 Dietrich Kuske
 Henning Basold or Thomas Baronner: parallel star: https://arxiv.org/abs/2305.06428
