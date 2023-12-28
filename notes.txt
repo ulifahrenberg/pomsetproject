@@ -1,0 +1,25 @@
+Proposed speakers:
+
+PA Melliès: Grothendieck construction
+
+Prospective speakers:
+
+Akshay / Genest: Timed negotiations: https://doi.org/10.1007/978-3-030-45231-5_3
+Idit Keidar: https://dl.acm.org/doi/10.1145/3584699 (proposed by S.Rajsbaum)
+Calk-Goubault-Malbos: Persistent homology of directed spaces
+Dietrich Kuske
+Henning Basold or Thomas Baronner: parallel star: https://arxiv.org/abs/2305.06428
+Henning Basold or Dominique Lawson: d-space van Kampen:	https://arxiv.org/abs/2312.06506
+Dmitry Zaitsev
+
+Participants to add:
+
+D.Zaitsev
+A.Rabinovich
+
+Schedule:
+
+- email everybody 9 days before seminar
+- email speaker to give instructions 9 days before
+- reminder everybody 26 hours before seminar
+
