@@ -27,7 +27,8 @@ Invite queue:
 
 P.A.Melliès: re-inv 20240101 for 16/2 or 15/3
 
-I.Keidar
+I.Keidar: re-inv 20240103 for 16/2 or 15/3
+
 T.Baronner/H.Basold
 A.Rabinovitch
 D.Kuske/A.Muscholl
