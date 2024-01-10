@@ -1,6 +1,5 @@
 Proposed speakers:
 
-PA Melliès: Grothendieck construction
 Idit Keidar: https://dl.acm.org/doi/10.1145/3584699 (proposed by S.Rajsbaum)
 
 Prospective speakers:
@@ -24,8 +23,6 @@ Schedule:
 - reminder everybody 26 hours before seminar
 
 Invite queue:
-
-P.A.Melliès: re-inv 20240101 for 16/2 or 15/3
 
 I.Keidar: re-inv 20240103 for 16/2 or 15/3
 
