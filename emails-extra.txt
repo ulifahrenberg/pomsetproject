@@ -23,6 +23,7 @@ Droste,Manfred,droste@informatik.uni-leipzig.de
 Dubut,Jérémy,dubutjeremy@gmail.com
 Dziadek,Sven,sven.dziadek@inria.fr
 Earnshaw,Matt,matt@earnshaw.org.uk
+Edixhoven,Luc,l.j.edixhoven@liacs.leidenuniv.nl
 Erlich,Enzo,enzo.erlich@ens-rennes.fr
 Fajstrup,Lisbeth,fajstrup@math.aau.dk
 Faustino,Caterina,id10307@alunos.uminho.pt
