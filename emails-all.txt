@@ -34,7 +34,6 @@ Fortin,Marie,marie.fortin@irif.fr
 Fraigniaud,Pierre,pierre.fraigniaud@irif.fr
 Gajda,Michał,mjgajda@gmail.com
 Gastin,Paul,gastin@lmf.cnrs.fr
-Guiraud,Yves,yves.guiraud@imj-prg.fr
 Goubault,Éric,goubault@lix.polytechnique.fr
 Goubault-Larrecq,Jean,goubault@lsv.ens-cachan.fr
 Haar,Stefan,stefan.haar@inria.fr
