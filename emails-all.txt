@@ -31,6 +31,8 @@ Fahrenberg,Uli,uli@lrde.epita.fr
 Fajstrup,Lisbeth,fajstrup@math.aau.dk
 Faustino,Caterina,id10307@alunos.uminho.pt
 Fortin,Marie,marie.fortin@irif.fr
+Fournillon,Paul,paul.fournillon@epita.fr
+Fragnaud,Timothée,timothee.fragnaud@epita.fr
 Fraigniaud,Pierre,pierre.fraigniaud@irif.fr
 Gajda,Michał,mjgajda@gmail.com
 Gastin,Paul,gastin@lmf.cnrs.fr
@@ -40,6 +42,7 @@ Haar,Stefan,stefan.haar@inria.fr
 Haddad,Serge,shaddad@lmf.cnrs.fr
 Hadzihasanovic,Amar,amar.hadzihasanovic@taltech.ee
 Haucourt,Emmanuel,emmanuel.haucourt@polytechnique.edu
+Hay-kergrohenn,Quentin,quentin.hay-kergrohenn@epita.fr
 Hélouët,Loïc,loic.helouet@inria.fr
 Herbelin,Hugo,Hugo.Herbelin@inria.fr
 Horne,Ross,Ross.horne@gmail.com

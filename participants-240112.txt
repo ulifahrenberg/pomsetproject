@@ -1,5 +1,6 @@
 Basold,Henning,h.basold@liacs.leidenuniv.nl
 Bazille,Hugo,hugo1.bazille@epita.fr
+Bellier,Dylan,dylan.bellier@irisa.fr
 Bojanczyk,Mikołaj,bojan@mimuw.edu.pl
 Choffrut,Christian,cc@irif.fr
 Diekert,Volker,diekert@fmi.uni-stuttgart.de
