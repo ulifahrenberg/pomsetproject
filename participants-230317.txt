@@ -1,8 +1,0 @@
-Amrane,Amazigh,amazigh.amrane@epita.fr
-Bazille,Hugo,hugo1.bazille@epita.fr
-Dubut,Jérémy,dubutjeremy@gmail.com
-Fahrenberg,Uli,uli@lrde.epita.fr
-Johansen,Christian,christian@johansenresearch.info
-Peixin,You,peixin.you@yale.edu
-Ziemiański,Krzysztof,ziemians@mimuw.edu.pl
-Zouari,Safa,safa.zouari@ntnu.no
