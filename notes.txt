@@ -1,14 +1,12 @@
 Proposed speakers:
 
-Idit Keidar: https://dl.acm.org/doi/10.1145/3584699 (proposed by S.Rajsbaum)
+Idit Keidar: https://dl.acm.org/doi/10.1145/3584699 (proposed by S.Rajsbaum; abandoned)
 
 Prospective speakers:
 
 Akshay / Genest: Timed negotiations: https://doi.org/10.1007/978-3-030-45231-5_3
 Calk-Goubault-Malbos: Persistent homology of directed spaces
 Dietrich Kuske / Anca Muscholl: communicating automata: https://eiche.theoinf.tu-ilmenau.de/kuske/Publications/KusM21.pdf
-Henning Basold or Thomas Baronner: parallel star: https://arxiv.org/abs/2305.06428
-Henning Basold or Dominique Lawson: d-space van Kampen:	https://arxiv.org/abs/2312.06506
 Dmitry Zaitsev
 
 Participants to add:
@@ -23,10 +21,6 @@ Schedule:
 - reminder everybody 26 hours before seminar
 
 Invite queue:
-
-I.Keidar: re-inv 20240103 for 16/2 or 15/3
-
-T.Baronner/H.Basold: inv 20240109 for 16/2
 
 A.Rabinovitch
 D.Kuske/A.Muscholl
