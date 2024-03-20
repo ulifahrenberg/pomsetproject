@@ -6,7 +6,6 @@ Prospective speakers:
 
 Akshay / Genest: Timed negotiations: https://doi.org/10.1007/978-3-030-45231-5_3
 Calk-Goubault-Malbos: Persistent homology of directed spaces
-Dietrich Kuske / Anca Muscholl: communicating automata: https://eiche.theoinf.tu-ilmenau.de/kuske/Publications/KusM21.pdf
 Dmitry Zaitsev
 
 Participants to add:
@@ -22,5 +21,9 @@ Schedule:
 
 Invite queue:
 
-D.Kuske/A.Muscholl: 20240228 inv
 A.Rabinovitch
+
+0405 F.Gadducci ?
+0419 M.Gajda
+
+0517 A.Muscholl
