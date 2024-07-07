@@ -1,29 +1,46 @@
-Proposed speakers:
-
-Idit Keidar: https://dl.acm.org/doi/10.1145/3584699 (proposed by S.Rajsbaum; abandoned)
-
 Prospective speakers:
 
-Akshay / Genest: Timed negotiations: https://doi.org/10.1007/978-3-030-45231-5_3
-Calk-Goubault-Malbos: Persistent homology of directed spaces
-Dmitry Zaitsev
+Mukund, Roy, Srivathsan:
+A Local-Time Semantics for Negotiations
+https://doi.org/10.1007/978-3-031-42626-1_7
+
+Adsul, Gastin, Sarkar, Weil: Asynchronous wreath product and cascade decompositions for concurrent behaviours
+https://doi.org/10.46298/lmcs-18(2:22)2022
+
+Aubert, Horne, Johansen: Diamonds for Security: A Non-Interleaving Operational Semantics for the Applied Pi-Calculus
+https://doi.org/10.4230/LIPIcs.CONCUR.2022.30
+
 
 Participants to add:
 
-D.Zaitsev
-A.Rabinovich
 
 Schedule:
+
+0816 (?)
+Speaker:
+Host: (not Uli)
+
+0830 ?
+Speaker:
+Host:
+
+0920
+Speaker:
+Host: (not Uli)
+
+1004 ?
+Speaker:
+Host:
+
+1018
+Speaker:
+Host:
+
+
+TODO:
 
 - email everybody 9 days before seminar
 - email speaker to give instructions 9 days before
 - reminder everybody 26 hours before seminar
 
 Invite queue:
-
-A.Rabinovitch
-
-0405 F.Gadducci ?
-0419 M.Gajda
-
-0517 A.Muscholl
