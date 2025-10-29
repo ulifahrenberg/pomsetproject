@@ -1,9 +1,7 @@
 #!/bin/bash
 
-ADDRS=uli.txt
-#ADDRS=emails.txt
-#ADDRS=emails-extra.txt
-#ADDRS=emails-new.txt
+#ADDRS=private/emails-test.txt
+ADDRS=private/emails.txt
 
 FROM=fahrenberg@gmail.com
 
@@ -12,7 +10,7 @@ EMAILCONT=announce.txt
 #SUBJECT='(i)Po(m)set Project Online Seminar: Safa Zouari tomorrow 17 March 11:00 CET'
 #SUBJECT='(i)Po(m)set Project Online Seminar: Sergio Rajsbaum Friday 14 April'
 #SUBJECT='(i)Po(m)set Project Online Seminar: Mikołaj Bojańczyk tomorrow 15 December 10:30 CET 🎄'
-SUBJECT='PPOS Christmas Disaster'
+SUBJECT='Third International Workshop on Pomsets and Related Structures'
 
 #TMPDIR=$(mktemp -d)
 TMPDIR=/tmp

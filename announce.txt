@@ -1,11 +1,15 @@
-you may be one of the many people who tried, in vain, to attend the special Christmas session of the (i)Po(m)set Project Online Seminar yesterday.  The zoom link I had sent in the announcement, and repeated in the reminder, was wrong.  Additionally, I was not available to try to fix things when they broke, and our host Krzysztof Ziemiański had no access to my data and could not do anything.
+it seems the p-acts mailing list is currently broken, so I'm sending this announcement the old way, in a personal email.
 
-I am sorry for the distress this has caused, both to the people who tried to attend but especially to our speaker Mikołaj Bojańczyk and to Krzysztof.  We will make some organisational changes to minimize the likelihood of any further such disasters.
+We are organizing a workshop at ENS Paris-Saclay and École polytechnique 11-12 September, directly after P-ACTS (but not in the same place):
 
-I am thankful to be able to report that Mikołaj has already agreed to postpone his talk to another friday, most probably in January.  I will keep you posted.  Until then, I wish you happy holidays and hope to see you on zoom in January.
+    https://ulifahrenberg.github.io/pomsets/3/
 
-    https://ulifahrenberg.github.io/pomsetproject/seminar.html
+Please register before 1 September in case you are interested, at
 
+    https://framadate.org/eE6Bm4EqOkrtEw9q
 
-Best regards,
+If you want to give a talk, please indicate so during registration and get back to us so that we can discuss title & abstract etc.
+
+Cheers,
+for the organizers,
 Uli Fahrenberg
